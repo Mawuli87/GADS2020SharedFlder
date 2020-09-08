@@ -1,12 +1,12 @@
-package com.messieyawo.gads2020leaderboard.adapters;
+package com.rhodagwata.gads2020leaderboard.adapters;
 
 
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
 
-import com.messieyawo.gads2020leaderboard.fragments.LearningLeaders;
-import com.messieyawo.gads2020leaderboard.fragments.SkillLeaders;
+import com.rhodagwata.gads2020leaderboard.fragments.LearningLeaders;
+import com.rhodagwata.gads2020leaderboard.fragments.SkillLeaders;
 
 
 public class CustomFragmentPageAdapter extends FragmentPagerAdapter {

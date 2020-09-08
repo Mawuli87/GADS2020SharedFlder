@@ -1,4 +1,4 @@
-package com.messieyawo.gads2020leaderboard.submission;
+package com.rhodagwata.gads2020leaderboard.submission;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -37,9 +37,8 @@ import com.android.volley.toolbox.HttpHeaderParser;
 import com.android.volley.toolbox.JsonArrayRequest;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
-import com.messieyawo.gads2020leaderboard.MainActivity;
-import com.messieyawo.gads2020leaderboard.R;
-import com.messieyawo.gads2020leaderboard.model.GADS2020;
+import com.rhodagwata.gads2020leaderboard.R;
+
 
 import org.json.JSONException;
 import org.json.JSONObject;

@@ -1,4 +1,4 @@
-package com.messieyawo.gads2020leaderboard.fragments;
+package com.rhodagwata.gads2020leaderboard.fragments;
 
 import android.app.ProgressDialog;
 import android.os.Bundle;
@@ -15,9 +15,9 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonArrayRequest;
 import com.android.volley.toolbox.Volley;
-import com.messieyawo.gads2020leaderboard.R;
-import com.messieyawo.gads2020leaderboard.adapters.RecyclerViewAdapter;
-import com.messieyawo.gads2020leaderboard.model.GADS2020;
+import com.rhodagwata.gads2020leaderboard.R;
+import com.rhodagwata.gads2020leaderboard.adapters.RecyclerViewAdapter;
+import com.rhodagwata.gads2020leaderboard.model.GADS2020;
 
 import org.json.JSONArray;
 import org.json.JSONException;

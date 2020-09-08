@@ -1,4 +1,4 @@
-package com.messieyawo.gads2020leaderboard.fragments;
+package com.rhodagwata.gads2020leaderboard.fragments;
 
 import android.os.Build;
 import android.os.Bundle;
@@ -12,8 +12,8 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.google.android.material.tabs.TabLayout;
-import com.messieyawo.gads2020leaderboard.R;
-import com.messieyawo.gads2020leaderboard.adapters.CustomFragmentPageAdapter;
+import com.rhodagwata.gads2020leaderboard.R;
+import com.rhodagwata.gads2020leaderboard.adapters.CustomFragmentPageAdapter;
 
 
 public class HomeFragment extends Fragment {

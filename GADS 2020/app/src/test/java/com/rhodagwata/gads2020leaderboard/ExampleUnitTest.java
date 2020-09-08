@@ -1,4 +1,4 @@
-package com.messieyawo.gads2020leaderboard;
+package com.rhodagwata.gads2020leaderboard;
 
 import org.junit.Test;
 

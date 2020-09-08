@@ -1,4 +1,4 @@
-package com.messieyawo.gads2020leaderboard.model;
+package com.rhodagwata.gads2020leaderboard.model;
 
 public class GADS2020 {
 

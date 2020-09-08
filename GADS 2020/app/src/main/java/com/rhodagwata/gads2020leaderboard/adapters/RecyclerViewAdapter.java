@@ -1,4 +1,4 @@
-package com.messieyawo.gads2020leaderboard.adapters;
+package com.rhodagwata.gads2020leaderboard.adapters;
 
 import android.content.Context;
 import android.content.Intent;
@@ -14,8 +14,8 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.RequestOptions;
-import com.messieyawo.gads2020leaderboard.R;
-import com.messieyawo.gads2020leaderboard.model.GADS2020;
+import com.rhodagwata.gads2020leaderboard.R;
+import com.rhodagwata.gads2020leaderboard.model.GADS2020;
 
 import java.util.List;
 

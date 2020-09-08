@@ -1,4 +1,4 @@
-package com.messieyawo.gads2020leaderboard;
+package com.rhodagwata.gads2020leaderboard;
 
 import androidx.appcompat.app.ActionBarDrawerToggle;
 import androidx.appcompat.app.AppCompatActivity;
@@ -18,10 +18,10 @@ import android.widget.Button;
 import android.widget.TextView;
 
 import com.google.android.material.navigation.NavigationView;
-import com.messieyawo.gads2020leaderboard.fragments.HomeFragment;
-import com.messieyawo.gads2020leaderboard.fragments.LearningLeaders;
-import com.messieyawo.gads2020leaderboard.fragments.SkillLeaders;
-import com.messieyawo.gads2020leaderboard.submission.ProjectSubmission;
+import com.rhodagwata.gads2020leaderboard.fragments.HomeFragment;
+import com.rhodagwata.gads2020leaderboard.fragments.LearningLeaders;
+import com.rhodagwata.gads2020leaderboard.fragments.SkillLeaders;
+import com.rhodagwata.gads2020leaderboard.submission.ProjectSubmission;
 
 public class MainActivity extends AppCompatActivity {
 
