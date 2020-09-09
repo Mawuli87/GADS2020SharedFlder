@@ -58,7 +58,7 @@ public class ProjectSubmission extends AppCompatActivity {
     String LastName ;
     String Email;
     String projectLink;
-    String URL_SUBMIT_POST= "https://docs.google.com/forms/d/e/1FAIpQLSf9d1TcNU6zc6KR8bSEM41Z1g1zl35cwZr2xyjIhaMAz8WChQ/formResponseqwer";
+
 
 
     @Override
@@ -140,10 +140,10 @@ public class ProjectSubmission extends AppCompatActivity {
 
         progressDialog.setMessage("Please wait...");
         progressDialog.show();
-        //add to cart favorite
-        String URL_FAVORITE_POST= "https://docs.google.com/forms/d/e/1FAIpQLSf9d1TcNU6zc6KR8bSEM41Z1g1zl35cwZr2xyjIhaMAz8WChQ/formResponse666";
+        //submit
+        String URL_SUBMIT_POST= "https://docs.google.com/forms/d/e/1FAIpQLSf9d1TcNU6zc6KR8bSEM41Z1g1zl35cwZr2xyjIhaMAz8WChQ/formResponse";
 
-        StringRequest stringRequest = new StringRequest(Request.Method.POST, URL_FAVORITE_POST,
+        StringRequest stringRequest = new StringRequest(Request.Method.POST, URL_SUBMIT_POST,
                 new Response.Listener<String>() {
                     @Override
                     public void onResponse(String response) {
